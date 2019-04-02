@@ -3,6 +3,7 @@
 Java Sudoku by Austin Johnson for personal practice.  Uses SWT, JFrame, and WindowBuilder.
 
 Instructions:
+
 Click "New Puzzle" to start the game. A puzzle will be randomly chosen for you to solve.
 
 Use the radio buttons on the right to either select the number you wish to input or select "Direct Input" to be prompted to type each number.
